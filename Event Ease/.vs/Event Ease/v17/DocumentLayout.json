@@ -1,0 +1,534 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:controllers\\partycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\event\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\event\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\bookings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\bookings\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\bookings\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\bookings\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|c:\\users\\lab_services_student\\desktop\\group3poepart1\\event ease\\views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77F2A086-153F-41DE-815B-65FB633AE55E}|Event Ease.csproj|solutionrelative:views\\bookings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\BlobService.cs",
+              "RelativeDocumentMoniker": "Models\\BlobService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\BlobService.cs",
+              "RelativeToolTip": "Models\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:34:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T17:10:15.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T12:53:36.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:59:56.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:56:27.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:55:27.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:55:04.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:54:38.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Index.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:31:33.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:24:13.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Details.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:23:31.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:22:44.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Bookings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Bookings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Bookings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:21:38.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Event\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:11:30.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Details.cshtml",
+              "RelativeToolTip": "Views\\Event\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:10:22.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Views\\Event\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:09:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Event\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:08:35.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Event\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Event\\Index.cshtml",
+              "RelativeToolTip": "Views\\Event\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T23:07:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1UAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:35:43.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:35:38.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartyController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\PartyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PartyController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\PartyController.cs",
+              "RelativeToolTip": "Controllers\\PartyController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:35:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:29:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:27:55.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:26:44.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:25:26.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:21:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Details.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:21:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Party.cs",
+              "RelativeDocumentMoniker": "Models\\Party.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Party.cs",
+              "RelativeToolTip": "Models\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:21:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:21:11.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\Venue.cs",
+              "RelativeToolTip": "Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:20:26.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T22:20:06.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\GROUP3POEPART1\\Event Ease\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:19:40.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
